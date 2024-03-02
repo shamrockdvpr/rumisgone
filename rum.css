@@ -1,0 +1,39 @@
+h1 {
+	text-align : center
+}
+	
+h2 {
+	text-align : center
+}
+	
+h3 {
+	text-align : center
+}
+	
+h4 {
+	text-align : center
+}
+	
+h5 {
+	text-align : center
+}
+	
+h6 {
+	text-align : center
+}
+	
+.ship {
+	background-color: #0033FF;
+	font-size: 2em;
+}
+
+strong {
+	font-size: 2em;
+	font-family: impact;
+}
+
+.heading {
+	border-width: 10px;
+	border-style: inset;
+	border-color: #00FFFF;
+}
